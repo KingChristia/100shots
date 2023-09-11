@@ -9,4 +9,4 @@ Terminalen kan brukes som en skjerm for å holde styr på hvor mange shots som e
 
 ### Disclaimer!
 
-Dette programmet ble laget og testet på en mac, og vil nok derfor bare 
+Dette programmet ble laget og testet på en mac, og vil nok derfor bare virke der.
